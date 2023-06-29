@@ -34,7 +34,6 @@ This project is a simple frontend-backend application built using Docker Compose
 	```
 
 This command will build the necessary Docker images, create the required
-
  containers, and start the services.
 
 1. Access the application

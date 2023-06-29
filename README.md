@@ -17,7 +17,9 @@ This project is a simple frontend-backend application built using Docker Compose
 
 1. Clone the repository:
 
-	```shell git clone <repository_url>```
+	```
+	git clone <repository_url>
+	```
 
 2. Navigate to the project directory
 

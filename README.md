@@ -78,7 +78,7 @@ This will stop the running containers and remove the associated volumes.
 
 ## Conclusion
 
-This project showcases my practical knowledge and understanding of Docker Compose for building and managing a frontend-backend application. It demonstrates my passion for learning and applying containerization concepts in real-world scenarios. Feel free to modify.
+This project showcases my practical knowledge and understanding of Docker Compose for building and managing a frontend-backend application. It demonstrates my passion for learning and applying containerization concepts in real-world scenarios.
 
 If you have any questions or suggestions for improvements, feel free to reach out. Happy coding!
 

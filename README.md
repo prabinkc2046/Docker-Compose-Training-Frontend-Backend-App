@@ -18,17 +18,17 @@ This project is a simple frontend-backend application built using Docker Compose
 1. Clone the repository:
 
 ```shell
-git clone <repository_url>
+git clone <repository_url>```
 
 2. Navigate to the project directory
 
 ```shell
-cd <repository_name>
+cd <repository_name>```
 
 3. Start the application
 
 ```shell
-docker-compose up -d
+docker-compose up -d```
 
 This command will build the necessary Docker images, create the required containers, and start the services.
 
@@ -39,7 +39,7 @@ This command will build the necessary Docker images, create the required contain
 
 2. Stop the application
 ```shel
-docker-compose down --volumes
+docker-compose down --volumes```
 
 This will stop the running containers and remove the associated volumes.
 

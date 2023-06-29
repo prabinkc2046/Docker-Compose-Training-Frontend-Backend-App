@@ -23,15 +23,19 @@ This project is a simple frontend-backend application built using Docker Compose
 
 2. Navigate to the project directory
 
-```shell
-cd <repository_name>```
+	```
+	cd <repository_name>
+	```
 
 3. Start the application
 
-```shell
-docker-compose up -d```
+	```
+	docker-compose up -d
+	```
 
-This command will build the necessary Docker images, create the required containers, and start the services.
+This command will build the necessary Docker images, create the required
+
+ containers, and start the services.
 
 1. Access the application
 
@@ -39,12 +43,16 @@ This command will build the necessary Docker images, create the required contain
 	- Backend: Make API requests to http://localhost:8000.
 
 2. Stop the application
-```shel
-docker-compose down --volumes```
+
+	```s
+	docker-compose down --volumes
+	```
 
 This will stop the running containers and remove the associated volumes.
 
 ## References
 
-This project was created as part of my training after learning Docker Compose from Kokedloud. For more information and tutorials on Docker Compose, you can visit the Kokedloud website:[https://kodekloud.com/]
+This project was created as part of my training after learning Docker Compose
+
+ from Kokedloud. For more information and tutorials on Docker Compose, you can visit the Kokedloud website:[https://kodekloud.com/]
 

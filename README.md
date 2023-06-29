@@ -16,6 +16,7 @@ The project demonstrates how to orchestrate these components using Docker Compos
 
 The project structure is as follows:
 
+```
 docker-compose/
 ├── backend
 │   ├── app.py
@@ -28,14 +29,11 @@ docker-compose/
 │   ├── index.html
 │   └── script.js
 └── README.md
-
-	- The backend directory contains the Flask application code (app.py), a Dockerfile for building the backend image, and a requirements.txt file listing the necessary dependencies.
-
-	- The frontend directory contains the HTML (index.html) and JavaScript (script.js) files for the frontend interface.
-
-	- The database directory includes the init.sql script to initialize the MySQL database with the necessary table.
-
-	- The docker-compose.yml file defines the services, their configurations, and the network setup for the application.
+```
+1.  The backend directory contains the Flask application code (app.py), a Dockerfile for building the backend image, and a requirements.txt file listing the necessary dependencies.
+2.  The frontend directory contains the HTML (index.html) and JavaScript (script.js) files for the frontend interface.
+3.  The database directory includes the init.sql script to initialize the MySQL database with the necessary table.
+4.  The docker-compose.yml file defines the services, their configurations, and the network setup for the application.
 
 ## Prerequisites
 
